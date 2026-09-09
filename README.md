@@ -1,50 +1,55 @@
 <p align="center">
-  <img src="citypx.png" width="100%" alt="Night City Banner" />
+  <img src="citypx.png" width="100%" alt="" />
 </p>
-
-<br/>
 
 <h1 align="center">Andreas</h1>
+
 <p align="center">
-  <b>Founder @ NEWROPLY</b> &nbsp;•&nbsp; <b>Creator of NEWR-LABS</b><br/>
-  <sub>Building experimental software and open-source infrastructure.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3200&pause=700&color=00D1FF&center=true&vCenter=true&width=640&height=44&lines=founder+%40+newroply;building+newr-labs;powered+by+coffee+and+el+capitan" alt="" />
 </p>
 
-<br/>
-
 <p align="center">
-  <a href="https://github.com/NEWR-LABS"><img src="https://img.shields.io/badge/NEWR--LABS-0A0A14?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A14" /></a>
-  <a href="https://github.com/drewdestar"><img src="https://img.shields.io/badge/drewdestar-0A0A14?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A14" /></a>
+  <a href="https://github.com/NEWR-LABS"><img src="https://img.shields.io/badge/NEWR--LABS-0B0B1A?style=flat-square&logo=github&logoColor=C9D1D9&labelColor=0B0B1A" alt="" /></a>
+  <img src="https://komarev.com/ghpvc/?username=drewdestar&style=flat-square&color=7C5CFF&labelColor=0B0B1A&label=views" alt="" />
+  <img src="https://img.shields.io/github/followers/drewdestar?style=flat-square&color=0B0B1A&labelColor=0B0B1A&logo=github&logoColor=C9D1D9&label=followers" alt="" />
 </p>
 
-<hr style="border: 1px solid #1E1E2E; margin: 40px auto; width: 80%;" />
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0B0B1A,16162E,7C5CFF,00D1FF&height=14&width=900" alt="" />
 
-<h3 align="center">🏢 About NEWR-LABS</h3>
+### about
+
+I run **NEWROPLY** and build **NEWR-LABS** — an independent lab for experimental software, automation and open-source tooling.
+
+Most of my work ships at night from a 2009 MacBook Pro running El Capitan that refuses to die. Legacy hardware, modern code.
+
+### activity
+
 <p align="center">
-  An independent research and development collective focused on experimental software, automation, and digital infrastructure. We build tools that push the boundaries of legacy and modern systems.
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drewdestar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0B0B1A&title_color=00D1FF&icon_color=7C5CFF&text_color=C9D1D9&hide_border=true&border_radius=10" alt="" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdestar&layout=compact&langs_count=6&theme=transparent&bg_color=0B0B1A&title_color=00D1FF&text_color=C9D1D9&hide_border=true&border_radius=10" alt="" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drewdestar&show_icons=true&theme=transparent&bg_color=0A0A14&title_color=8B5CF6&text_color=E2E8F0&icon_color=00D1FF&hide_border=true&border_radius=8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdestar&layout=compact&theme=transparent&bg_color=0A0A14&title_color=8B5CF6&text_color=E2E8F0&icon_color=00D1FF&hide_border=true&border_radius=8" width="49%" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=drewdestar&background=0B0B1A&hide_border=true&border_radius=10&ring=00D1FF&fire=7C5CFF&currStreakNum=00D1FF&currStreakLabel=00D1FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B8BA7" alt="" />
 </p>
 
-<br/>
+### stack
 
-<h3 align="center">🛠 Infrastructure & Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0A0A14?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A14?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0A0A14?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-0A0A14?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-0A0A14?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-0B0B1A?style=flat-square&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/javascript-0B0B1A?style=flat-square&logo=javascript&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/node.js-0B0B1A?style=flat-square&logo=node.js&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/bash-0B0B1A?style=flat-square&logo=gnubash&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/git-0B0B1A?style=flat-square&logo=git&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/macOS-0B0B1A?style=flat-square&logo=apple&logoColor=white" alt="" />
 </p>
 
-<hr style="border: 1px solid #1E1E2E; margin: 40px auto; width: 80%;" />
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=00D1FF,7C5CFF,16162E,0B0B1A&height=14&width=900" alt="" />
 
 <p align="center">
-  <a href="mailto:hello@newroly.com"><img src="https://img.shields.io/badge/Contact-0A0A14?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NEWR-LABS"><img src="https://img.shields.io/badge/Organization-0A0A14?style=flat-square&logo=github&logoColor=white" /></a>
+  <img width="85%" src="https://raw.githubusercontent.com/drewdestar/drewdestar/output/github-contribution-grid-snake-dark.svg" alt="" />
+</p>
+
+<p align="center">
+  <sub>drewdestar — built on El Capitan, obviously.</sub>
 </p>
