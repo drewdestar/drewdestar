@@ -21,8 +21,8 @@
 <h2 align="center">📊 System Statistics</h2>
 <p align="center">
   <!-- GANTI 'USERNAME_GITHUB_LO' dengan username asli lo -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LO&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LO&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=drewdestarO&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdestar&layout=compact&theme=radical&border_radius=10&hide_border=true" />
 </p>
 
 <br>
