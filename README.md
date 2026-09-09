@@ -1,72 +1,50 @@
-<!-- ================= PIXEL NIGHT CITY BANNER ================= -->
 <p align="center">
-  <img src="citypx.png" width="100%" alt="Pixel Night City" />
+  <img src="citypx.png" width="100%" alt="Night City Banner" />
 </p>
 
-<!-- ================= TERMINAL TYPING ================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=60&lines=GOOD.EVENING.TRAVELER...;WELCOME.TO.NIGHT.CITY;drewdestar%40terminal:~%24+whoami;LOADING.PIXEL.ASSETS...;HACKER.MODE.ACTIVATED!" alt="Typing SVG" />
-</h1>
+<br/>
 
+<h1 align="center">Andreas</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drewdestar&label=PIXEL+VISITORS&style=for-the-badge&color=6A0DAD&labelColor=0B0B1A" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/drewdestar?style=for-the-badge&color=00E5FF&labelColor=0B0B1A&logo=github&label=FOLLOWERS" alt="followers" />
+  <b>Founder @ NEWROPLY</b> &nbsp;•&nbsp; <b>Creator of NEWR-LABS</b><br/>
+  <sub>Building experimental software and open-source infrastructure.</sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0B0B1A,16162E,6A0DAD,00E5FF&height=16&width=900" />
+<br/>
 
-<!-- ================= ABOUT ================= -->
 <p align="center">
-  🌃 <b>Currently hacking from:</b> MacBook Pro 2009 (El Capitan Survivor) <br>
-  💻 <b>Stack:</b> Python, Node.js, Bash, & Pure Logic <br>
-  🎮 <b>Hobby:</b> Retro Gaming, Open-Source, & Pixel Art Collecting
+  <a href="https://github.com/NEWR-LABS"><img src="https://img.shields.io/badge/NEWR--LABS-0A0A14?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A14" /></a>
+  <a href="https://github.com/drewdestar"><img src="https://img.shields.io/badge/drewdestar-0A0A14?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A14" /></a>
 </p>
 
-<!-- ================= STATS ================= -->
-<h2 align="center">📊 System Statistics</h2>
+<hr style="border: 1px solid #1E1E2E; margin: 40px auto; width: 80%;" />
+
+<h3 align="center">🏢 About NEWR-LABS</h3>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=drewdestar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0B0B1A&title_color=00E5FF&icon_color=FF00E4&text_color=C9D1D9&border_color=6A0DAD&border_radius=12" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdestar&layout=compact&langs_count=8&theme=transparent&bg_color=0B0B1A&title_color=00E5FF&icon_color=FF00E4&text_color=C9D1D9&border_color=6A0DAD&border_radius=12" alt="top langs" />
+  An independent research and development collective focused on experimental software, automation, and digital infrastructure. We build tools that push the boundaries of legacy and modern systems.
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drewdestar&background=0B0B1A&border=6A0DAD&border_radius=12&stroke=6A0DAD&ring=00E5FF&fire=FF00E4&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B8BA7" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drewdestar&show_icons=true&theme=transparent&bg_color=0A0A14&title_color=8B5CF6&text_color=E2E8F0&icon_color=00D1FF&hide_border=true&border_radius=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdestar&layout=compact&theme=transparent&bg_color=0A0A14&title_color=8B5CF6&text_color=E2E8F0&icon_color=00D1FF&hide_border=true&border_radius=8" width="49%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=00E5FF,6A0DAD,16162E,0B0B1A&height=16&width=900" />
+<br/>
 
-<!-- ================= QUEST LOG ================= -->
-<h2 align="center">🕹️ Current Quest Log</h2>
-
-```bash
-drewdestar@night-city:~$ cat quest_log.txt
-
-> [██████████░░] 83%  Reviving a 2009 MacBook Pro
-> [███████░░░░░] 65%  Mastering Python automation
-> [████░░░░░░░░] 40%  Building pixel-art lyric tools
-> [██░░░░░░░░░░] 15%  Defeating Cloudflare boss fights
-```
-
-<!-- ================= TECH ARSENAL ================= -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h3 align="center">🛠 Infrastructure & Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/Tkinter-00E5FF?style=for-the-badge&logo=python&logoColor=black&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/macOS-El_Capitan-555555?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0B1A" />
+  <img src="https://img.shields.io/badge/Python-0A0A14?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A14?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0A0A14?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-0A0A14?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-0A0A14?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
-<!-- ================= PIXEL SNAKE ================= -->
-<h2 align="center">🐍 Pixel Snake on My Grid</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drewdestar/drewdestar/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
+<hr style="border: 1px solid #1E1E2E; margin: 40px auto; width: 80%;" />
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0B0B1A,6A0DAD,00E5FF&height=16&width=900" />
-
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <i>"Code is poetry, but the terminal is the canvas."</i><br>
-  <sub>️ Rendered at 30 FPS on a MacBook Pro 2009 — El Capitan forever.</sub>
+  <a href="mailto:hello@newroly.com"><img src="https://img.shields.io/badge/Contact-0A0A14?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/NEWR-LABS"><img src="https://img.shields.io/badge/Organization-0A0A14?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
