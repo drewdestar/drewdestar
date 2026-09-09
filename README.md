@@ -2,7 +2,9 @@
 <p align="center">
   <img src="citypx.png" width="100%" alt="Pixel Night City" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/drewdestar/drewdestar/main/dist/night_city.svg" width="100%" alt="Night City" />
+</p>
 <!-- ================= TERMINAL TYPING ================= -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=60&lines=GOOD.EVENING.TRAVELER...;WELCOME.TO.NIGHT.CITY;drewdestar%40terminal:~%24+whoami;LOADING.PIXEL.ASSETS...;HACKER.MODE.ACTIVATED!" alt="Typing SVG" />
