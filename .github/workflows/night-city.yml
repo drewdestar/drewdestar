@@ -1,0 +1,34 @@
+name: Generate Night City
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Update tiap hari jam 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  build-city:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Generate SVG
+        run: python generate_city.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/night_city.svg
+          git diff --cached --quiet || git commit -m "🌃 Update Night City [$(date +'%Y-%m-%d')]"
+          git push
