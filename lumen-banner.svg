@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="drewdestar — I build bots, games and small shops on the internet.">
+  <rect width="1280" height="320" fill="#060510"/>
+  <!-- well with blueprint grid, right -->
+  <rect x="820" y="48" width="396" height="224" rx="10" fill="#0d0b19" stroke="#262436" stroke-width="1"/>
+  <g>
+    <line x1="820" y1="48" x2="820" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="868" y1="48" x2="868" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="916" y1="48" x2="916" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="964" y1="48" x2="964" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="1012" y1="48" x2="1012" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="1060" y1="48" x2="1060" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="1108" y1="48" x2="1108" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="1156" y1="48" x2="1156" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="1204" y1="48" x2="1204" y2="272" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="820" y1="48" x2="1216" y2="48" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="820" y1="96" x2="1216" y2="96" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="820" y1="144" x2="1216" y2="144" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="820" y1="192" x2="1216" y2="192" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+    <line x1="820" y1="240" x2="1216" y2="240" stroke="#f3f0f8" stroke-opacity="0.05" stroke-width="1"/>
+  </g>
+  <text x="852" y="84" font-family="ui-monospace, 'Geist Mono', monospace" font-size="13" font-weight="400" fill="#72d699">● live</text>
+  <text x="852" y="168" font-family="'Instrument Serif', Georgia, serif" font-size="88" font-weight="400" fill="#f3f0f8">119</text>
+  <text x="852" y="196" font-family="ui-monospace, 'Geist Mono', monospace" font-size="13" font-weight="400" fill="#9c98aa">total contributions</text>
+  <line x1="852" y1="216" x2="1184" y2="216" stroke="#262436" stroke-width="1"/>
+  <text x="852" y="242" font-family="ui-monospace, 'Geist Mono', monospace" font-size="13" font-weight="400" fill="#cfccd8">repos 14 · bots 10 · streak 3d</text>
+  <!-- wordmark, lowercase -->
+  <text x="64" y="92" font-family="'Geist', ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="400" fill="#9c98aa">profile · drewdestar</text>
+  <text x="62" y="168" font-family="'Instrument Serif', Georgia, serif" font-size="68" font-weight="400" letter-spacing="-1" fill="#f3f0f8">drewdestar</text>
+  <text x="64" y="208" font-family="'Instrument Serif', Georgia, serif" font-size="24" font-weight="400" fill="#cfccd8">i <tspan font-style="italic" fill="#f3798b">build</tspan> bots, games and small shops.</text>
+  <line x1="76" y1="216" x2="130" y2="216" stroke="#f3798b" stroke-width="1"/>
+  <!-- brass pill -->
+  <rect x="64" y="238" width="118" height="40" rx="20" fill="#ffa54b"/>
+  <text x="123" y="263" font-family="'Geist', ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="500" fill="#090714" text-anchor="middle">newr labs</text>
+</svg>
