@@ -17,16 +17,6 @@
 
 ---
 
-<!-- ================= RIGHT NOW ================= -->
-<h2 align="center">Right now</h2>
-
-<p align="center">
-  Building the NEWR Adventure web game from zero — v6, an original design,
-  not a copy of anything.<br />
-  In the middle of olympiad season: 15 competitions across November 2026.<br />
-  Class 10 Perhotelan 1, SMKS Paskita Global, Jakarta.
-</p>
-
 <!-- ================= GROWING ================= -->
 <h2 align="center">Growing right now</h2>
 
@@ -90,15 +80,6 @@
 <h2 align="center">Numbers, honestly</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drewdestar&background=060510&border=262436&border_radius=10&stroke=ffa54b&ring=ffa54b&fire=ffa54b&currStreakNum=f3f0f8&currStreakLabel=9c98aa&sideNums=cfccd8&sideLabels=9c98aa&dates=9c98aa" alt="streak" />
-</p>
-
-<!-- ================= OLYMPIADS ================= -->
-<h2 align="center">Olympiad season</h2>
-
-<p align="center">
-  15 competitions registered for November 2026 — Bahasa Indonesia and Bahasa Inggris,
-  all free, all online. Nearest exams: Sunday 8 Nov, with five in one day.
-  The season is the reason the commit graph has been quiet some weeks.
 </p>
 
 <!-- ================= STACK ================= -->
