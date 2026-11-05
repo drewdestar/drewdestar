@@ -1,74 +1,68 @@
-<!-- ================= PIXEL NIGHT CITY BANNER ================= -->
+<!-- ================= HUM BANNER ================= -->
 <p align="center">
-  <img src="citypx.png" width="100%" alt="Pixel Night City" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drewdestar/drewdestar/main/dist/night_city.svg" width="100%" alt="Night City" />
-</p>
-<!-- ================= TERMINAL TYPING ================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=60&lines=GOOD.EVENING.TRAVELER...;WELCOME.TO.NIGHT.CITY;drewdestar%40terminal:~%24+whoami;LOADING.PIXEL.ASSETS...;HACKER.MODE.ACTIVATED!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drewdestar&label=PIXEL+VISITORS&style=for-the-badge&color=6A0DAD&labelColor=0B0B1A" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/drewdestar?style=for-the-badge&color=00E5FF&labelColor=0B0B1A&logo=github&label=FOLLOWERS" alt="followers" />
+  <img src="hum-banner.svg" width="100%" alt="drewdestar — I build bots, games and small shops on the internet." />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0B0B1A,16162E,6A0DAD,00E5FF&height=16&width=900" />
-
-<!-- ================= ABOUT ================= -->
 <p align="center">
-  🌃 <b>Currently hacking from:</b> MacBook Pro 2009 (El Capitan Survivor) <br>
-  💻 <b>Stack:</b> Python, Node.js, Bash, & Pure Logic <br>
-  🎮 <b>Hobby:</b> Retro Gaming, Open-Source, & Pixel Art Collecting
+  <img src="https://komarev.com/ghpvc/?username=drewdestar&label=VISITORS&style=for-the-badge&color=f7d21a&labelColor=12161c" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/drewdestar?style=for-the-badge&color=0064be&labelColor=12161c&logo=github&label=FOLLOWERS" alt="followers" />
+</p>
+
+<!-- ================= INTRO ================= -->
+<p align="center">
+  Hi, I'm Andrèw. I'm 16, a student in Jakarta, and I build things on the internet.
+  Discord bots for my own server, a small web game, and a shop that runs on Telegram.
+  This page is where that work lives.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=f7d21a&height=12&width=900" width="100%" />
+
+<!-- ================= GROWING ================= -->
+<h2 align="center">Growing right now</h2>
+
+<p align="center">
+  <b>NEWR Adventure</b> — a Discord RPG, and a playable web game at
+  <a href="https://adventure.newrlabs.web.id">adventure.newrlabs.web.id</a>. Live, and still growing.<br />
+  <b>NEWR LABS bots</b> — Support, AI, Music, Reminder, Social, Stats, Guardian and Clip,
+  all running on my own server.<br />
+  <b>Drèw Store</b> — a Telegram shop for premium accounts, with its own admin bot.<br />
+  <b>newrlabs</b> — my little corner of the web, at
+  <a href="https://newrlabs.my.id">newrlabs.my.id</a>.
+</p>
+
+<p align="center">
+  <sub>One stubborn piece: the game bridge runs through tunnels that rotate every ten minutes,
+  so a stable address is still on my list.</sub>
 </p>
 
 <!-- ================= STATS ================= -->
-<h2 align="center">📊 System Statistics</h2>
+<h2 align="center">Numbers, honestly</h2>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=drewdestar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0B0B1A&title_color=00E5FF&icon_color=FF00E4&text_color=C9D1D9&border_color=6A0DAD&border_radius=12" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdestar&layout=compact&langs_count=8&theme=transparent&bg_color=0B0B1A&title_color=00E5FF&icon_color=FF00E4&text_color=C9D1D9&border_color=6A0DAD&border_radius=12" alt="top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drewdestar&background=f7f5ec&border=d7d4c9&border_radius=24&stroke=0064be&ring=0064be&fire=ff5e63&currStreakNum=12161c&currStreakLabel=0064be&sideNums=272c32&sideLabels=565b63&dates=565b63" alt="streak" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0064be&height=12&width=900" width="100%" />
+
+<!-- ================= STACK ================= -->
+<h2 align="center">Tools I reach for</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drewdestar&background=0B0B1A&border=6A0DAD&border_radius=12&stroke=6A0DAD&ring=00E5FF&fire=FF00E4&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B8BA7" alt="streak" />
+  <img src="https://img.shields.io/badge/Python-0064be?style=for-the-badge&logo=python&logoColor=white&labelColor=12161c" />
+  <img src="https://img.shields.io/badge/JavaScript-f7d21a?style=for-the-badge&logo=javascript&logoColor=12161c&labelColor=12161c" />
+  <img src="https://img.shields.io/badge/Node.js-00713e?style=for-the-badge&logo=node.js&logoColor=white&labelColor=12161c" />
+  <img src="https://img.shields.io/badge/Bash-272c32?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=12161c" />
+  <img src="https://img.shields.io/badge/discord.py-ff5e63?style=for-the-badge&logo=discord&logoColor=white&labelColor=12161c" />
+  <img src="https://img.shields.io/badge/SQLite-70e093?style=for-the-badge&logo=sqlite&logoColor=12161c&labelColor=12161c" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=00E5FF,6A0DAD,16162E,0B0B1A&height=16&width=900" />
-
-<!-- ================= QUEST LOG ================= -->
-<h2 align="center">🕹️ Current Quest Log</h2>
-
-```bash
-drewdestar@night-city:~$ cat quest_log.txt
-
-> [██████████░░] 83%  Reviving a 2009 MacBook Pro
-> [███████░░░░░] 65%  Mastering Python automation
-> [████░░░░░░░░] 40%  Building pixel-art lyric tools
-> [██░░░░░░░░░░] 15%  Defeating Cloudflare boss fights
-```
-
-<!-- ================= TECH ARSENAL ================= -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<!-- ================= FIND ME ================= -->
+<h2 align="center">Say hi</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/Tkinter-00E5FF?style=for-the-badge&logo=python&logoColor=black&labelColor=0B0B1A" />
-  <img src="https://img.shields.io/badge/macOS-El_Capitan-555555?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0B1A" />
+  The <a href="https://discord.gg/vZU3KzEh6a">NEWR LABS Discord</a> is where the bots live,
+  and the game is at <a href="https://adventure.newrlabs.web.id">adventure.newrlabs.web.id</a>.
+  Come play, or come build.
 </p>
-
-<!-- ================= PIXEL SNAKE ================= -->
-<h2 align="center">🐍 Pixel Snake on My Grid</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drewdestar/drewdestar/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0B0B1A,6A0DAD,00E5FF&height=16&width=900" />
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <i>"Code is poetry, but the terminal is the canvas."</i><br>
-  <sub>️ Rendered at 30 FPS on a MacBook Pro 2009 — El Capitan forever.</sub>
+  <i>Made of paper, type and honest numbers.</i>
 </p>
